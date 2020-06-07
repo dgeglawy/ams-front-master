@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainRed: rgb(156, 21, 21);
+$mainOrange: #d49c18;
+$mainWhite: #fff;
+$mainGrey: #ececec;
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: $mainGrey;
+  color: $mainRed;
+}
